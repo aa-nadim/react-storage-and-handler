@@ -1,4 +1,4 @@
-# React Storage and Handler
+# 7. React Storage and Handler
 
 1. Module Introduction ES6 Modules simple import, export(47_5-1)
 2. ES6 Modules, import default, relative path(47_5-2)
